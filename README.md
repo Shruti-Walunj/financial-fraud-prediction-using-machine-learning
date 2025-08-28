@@ -7,7 +7,7 @@ Built a machine learning pipeline to detect fraudulent transactions from a real-
 The full dataset is available on Kaggle:  
 👉 [Financial Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset)  
 
-3 🧩 Key Tasks:  
+# 🧩 Key Tasks:  
 Trained ML models (Logistic Regression, Random Forest, XGBoost)  
 Handled missing values & class imbalance (SMOTE)  
 Engineered features (balance differences, transaction type encoding)  
