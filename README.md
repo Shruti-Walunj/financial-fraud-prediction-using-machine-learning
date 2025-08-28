@@ -8,21 +8,31 @@ The full dataset is available on Kaggle:
 👉 [Financial Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset)  
 
 # 🧩 Key Tasks:  
-Trained ML models (Logistic Regression, Random Forest, XGBoost)  
-Handled missing values & class imbalance (SMOTE)  
-Engineered features (balance differences, transaction type encoding)  
-Evaluated models with Precision, Recall, F1-score, ROC-AUC  
-Saved trained model pipeline with Joblib  
-Built a Streamlit app (`fraud_detection.py`) for real-time predictions  
+Performed data cleaning (handled missing values, standardized transaction features)  
+
+Exploratory Data Analysis (EDA) with Pandas, Matplotlib, Seaborn  
+
+Encoded categorical features (transaction type)  
+
+Scaled numerical features using StandardScaler  
+
+Trained and evaluated a Logistic Regression model  
+
+Saved the trained ML pipeline using Joblib  
+
+Developed a Streamlit app (`fraud_detection.py`) for real-time fraud prediction
 
 # 📊 Insights
 Fraud concentrated in TRANSFER and CASH-OUT transactions  
-Fraudsters often drain sender’s balance to zero in one transaction  
+
+Fraudsters often drain sender’s balance to zero in one move  
+
 Rule-based system (`isFlaggedFraud`) misses many fraud cases  
-ML models significantly improved fraud detection beyond rules  
+
+Machine learning model improved detection performance beyond rule-based checks  
 
 # 🛠️ Skills:  
-Python | Pandas | Scikit-learn | Streamlit | Joblib | EDA | Machine Learning | Imbalanced-learn  
+Machine Learning | Python | Scikit-learn | NumPy | Matplotlib | Seaborn  
 
 # 👤 Author  
 Shruti Walunj  
