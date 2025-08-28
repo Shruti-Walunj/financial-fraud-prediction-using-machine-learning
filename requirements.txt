@@ -1,7 +1,16 @@
+# Core
 pandas
 numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
 scikit-learn
-streamlit
+
+# Serialization
 joblib
-imbalanced-learn
-xgboost
+
+# Web app
+streamlit
