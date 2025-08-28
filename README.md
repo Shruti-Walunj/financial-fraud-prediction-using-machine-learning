@@ -1,4 +1,4 @@
-# 🔍 Financial Fraud Detection Using Machine Learning  
+# 🔍 Financial Fraud Prediction Using Machine Learning  
 
 # 📄 Description:  
 Built a machine learning pipeline to detect fraudulent transactions from a real-world dataset containing **6M+ rows and 10 features**. Developed a Streamlit web app where users can input transaction details and get real-time fraud predictions.  
